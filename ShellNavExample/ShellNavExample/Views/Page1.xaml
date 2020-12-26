@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShellNavExample.Views.Page1">
+    <ContentPage.Content>
+
+        <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
+
+
+            <Entry x:Name="UserInput" Text="User Input Text" 
+                   TextColor="Black" BackgroundColor="LightBlue"/>
+
+            <Button Text="Take Input" 
+                    Clicked="TakeInput_ClickedAsync"/>
+
+            <Button Text="Skip Input" 
+                    Clicked="SkipInput_ClickedAsync"/>
+
+
+        </StackLayout>
+
+
+    </ContentPage.Content>
+</ContentPage>

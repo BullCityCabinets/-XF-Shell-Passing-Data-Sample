@@ -1,0 +1,16 @@
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.csprojAssemblyReference.cache
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.AssemblyInfoInputs.cache
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.AssemblyInfo.cs
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.csproj.CoreCompileInputs.cache
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.dll
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ref\ShellNavExample.dll
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\ShellNavExample.pdb
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\bin\Debug\netstandard2.0\ShellNavExample.deps.json
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\bin\Debug\netstandard2.0\ShellNavExample.dll
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\bin\Debug\netstandard2.0\ref\ShellNavExample.dll
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\bin\Debug\netstandard2.0\ShellNavExample.pdb
+C:\Users\ScumS\source\repos\ShellExample201226 Solution\ShellNavExample\ShellNavExample\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ShellNavExample.Views.Page2">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Start">
+
+            <Label Text=" vvvvv INFO PASSED vvvvv"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black"/>
+            
+            <Label x:Name="inputLabel"                    
+                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" BackgroundColor="CornflowerBlue"/>
+
+            <Label Text=" ^^^^^ INFO PASSED ^^^^^"
+                VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
