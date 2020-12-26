@@ -20,7 +20,7 @@ namespace ShellNavExample.Views
         {
             if (UserInput.Text != "User Input Text")
             {
-                await Shell.Current.GoToAsync($"{nameof(Page2)}?UserInputText={UserInputText}");
+                await Shell.Current.GoToAsync($"{nameof(Page2)}?Input={UserInputText}");
             }
             else
             {

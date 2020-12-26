@@ -8,12 +8,17 @@
             <Label Text=" vvvvv INFO PASSED vvvvv"
                 VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black"/>
             
-            <Label x:Name="inputLabel"                    
+            <Label x:Name="destinationLabel"                    
                 VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" BackgroundColor="CornflowerBlue"/>
 
             <Label Text=" ^^^^^ INFO PASSED ^^^^^"
                 VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black"/>
 
+
+            <Label x:Name="inputLabel"/>
+            
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

@@ -22,17 +22,10 @@ namespace ShellNavExample.Views
         {
             InitializeComponent();
             BindingContext = this;
-                        
-            if(Input != null)
-            {
-                inputLabel.Text = Input;
-            }
-            else
-            {
-                inputLabel.Text = "No data was passed";
-            }
 
-            
+            destinationLabel.Text = Input ?? "No data was passed";
+
+
         }
     }
 }

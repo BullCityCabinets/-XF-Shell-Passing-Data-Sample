@@ -7,11 +7,8 @@
         <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
 
 
-            <Entry x:Name="UserInput" Text="User Input Text" 
-                   TextColor="Black" BackgroundColor="LightBlue"/>
-
-            <Button Text="Take Input" 
-                    Clicked="TakeInput_ClickedAsync"/>
+            <Entry x:Name="UserInput" Text="User Input Text"/>
+            <Button Text="Take Input" Clicked="TakeInput_ClickedAsync"/>
 
             <Button Text="Skip Input" 
                     Clicked="SkipInput_ClickedAsync"/>
